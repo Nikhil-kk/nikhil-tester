@@ -22,7 +22,7 @@ class Testarray2 {
 }
 public class Array4 {
 	public static void main(String args[]) {
-		int a[] = { 33, 13, 4, 50,15,1 };// declaring and initializing an array
+		int a[] = { 33, 13, 4, 50,15,10 };// declaring and initializing an array
 		Testarray2.min(a);// passing array to method
 		Testarray2.max(a);// passing array to method
 	}
